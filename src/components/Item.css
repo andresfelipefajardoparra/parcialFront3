@@ -1,0 +1,16 @@
+.producto {
+    color: darkblue;
+    text-align: justify;
+}
+
+.producto h3 {
+    text-align: center;
+    color: darkblue;
+}
+
+.producto button {
+    font-style: italic;
+    border-radius: 30px;
+    border-color: transparent;
+    color: red;
+}
